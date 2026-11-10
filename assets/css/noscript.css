@@ -1,0 +1,8 @@
+/* Loaded only when JavaScript is off: keep the navigation visible. */
+@media (max-width: 759px) {
+  .nav-toggle { display: none !important; }
+  .site-header { height: auto; position: static; }
+  .site-header .inner { flex-wrap: wrap; padding-block: .75rem; }
+  .site-nav { display: block !important; position: static; box-shadow: none; border: 0; padding: 0; width: 100%; }
+  .site-nav ul { flex-direction: row; flex-wrap: wrap; }
+}

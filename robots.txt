@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mantle-it.co.ke/sitemap.xml

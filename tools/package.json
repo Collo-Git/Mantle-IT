@@ -1,0 +1,12 @@
+{
+  "name": "mantle-it-tools",
+  "private": true,
+  "type": "module",
+  "description": "Minifies the Mantle IT site's CSS and JS. Not deployed.",
+  "scripts": {
+    "minify": "node build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
